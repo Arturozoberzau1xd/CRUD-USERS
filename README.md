@@ -11,13 +11,14 @@ Este proyecto es un frontend en **React** que permite listar, crear, editar y el
 ## 🖼️ Capturas de pantalla
 
 ### Página principal
-![Listado de usuarios](captures\Screenshot 2025-10-08 095924.png)
+![Listado de usuarios](https://github.com/Arturozoberzau1xd/CRUD-USERS/blob/main/captures/Screenshot%202025-10-08%20095924.png?raw=true)
+
 
 ### Formulario de edición
-![Formulario de edición](captures\Screenshot 2025-10-08 100037.png)
+![Formulario de edición](https://github.com/Arturozoberzau1xd/CRUD-USERS/blob/main/captures/Screenshot%202025-10-08%20100037.png?raw=true)
 
 ### mensaje de actualizacion
-![mensaje de actualizacion](captures\Screenshot 2025-10-08 100112.png)
+![mensaje de actualizacion](https://github.com/Arturozoberzau1xd/CRUD-USERS/blob/main/captures/Screenshot%202025-10-08%20100112.png?raw=true)
 
 
 # Getting Started with Create React App
