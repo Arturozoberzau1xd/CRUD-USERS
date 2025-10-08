@@ -1,3 +1,25 @@
+# CRUD de Usuarios 👥
+
+Este proyecto es un frontend en **React** que permite listar, crear, editar y eliminar usuarios conectándose a una API en **Laravel**.
+
+## 🚀 Tecnologías
+- React
+- Axios
+- Bootstrap / Tailwind
+- XAMPP (para el backend local)
+
+## 🖼️ Capturas de pantalla
+
+### Página principal
+![Listado de usuarios](captures\Screenshot 2025-10-08 095924.png)
+
+### Formulario de edición
+![Formulario de edición](captures\Screenshot 2025-10-08 100037.png)
+
+### mensaje de actualizacion
+![mensaje de actualizacion](captures\Screenshot 2025-10-08 100112.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
